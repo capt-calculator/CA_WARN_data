@@ -1,5 +1,5 @@
-# Irritatingly, California WARM notice data are made available only via pdf.
-# This extracts the California WARN notices from the pdf of the CA EDD website, preps data, 
+# Irritatingly, California WARN notice data are made available only via pdf.
+# This extracts the California WARN notice data from the pdf of the CA EDD website, preps data, 
 # and writes to csv 
 
 
